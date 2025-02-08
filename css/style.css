@@ -180,6 +180,14 @@ footer a:hover {
     border: 2px solid var(--color-accent);
 }
 
+.cookie-consent h3{
+    color: var(--color-accent);
+}
+
+.cookie-consent p{
+    color: var(--color-text);
+}
+
 /* Buttons */
 .btn-primary {
     background-color: var(--color-accent);
